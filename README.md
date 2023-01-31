@@ -1,4 +1,4 @@
-                                                            <h1>Welcome to My Github</h1>
+<h1>Welcome to My Github</h1>
 
 <p>Hello, I'm Jeremy. I've been learning full-stack development at School of Code (SOC) -- a 16-week, full-time and fast-paced coding bootcamp,  since September 2022 and and my goal is to become a full stack developer. At SOC, I have acquired full stack development hands-on experience of using various technologies (including React, Node.js, Javascript, Typescript and PostgreSQL) and working in an agile environment (e.g. practicing daily stand-ups, retros and a scrum master; using Git, Figma, Miro and Trello to plan and manage our projects).</p>
 <p>The intensive training at SOC has equipped me with the technical skills, teamwork experience and agile mindset required to  break into web development. I'm really grateful for the opportunity offered by SOC to start a new chapter of my life.</p>
