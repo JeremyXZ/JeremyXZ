@@ -11,6 +11,32 @@
 <p>I look forward to continuing my journey, discovering and learning more about the coding world. Stay tuned to this space to see my progress!</p>
 
 
+## Technologies I've worked with:
+
+Here are some of the technologies and tools that I have worked with and learned during my coding journey:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="max-width:100%; margin-right: 15px;"> 
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+ 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+
+</div>
+
+
+          
 
 
 
@@ -18,5 +44,3 @@
 
 
 
-
-</p>
