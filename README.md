@@ -1,4 +1,22 @@
-<h1>Welcome to My Github</h1>
+# Hi there, welcome to my GitHub! :wave:
 
-<p>Hello, I'm Jeremy. I've been learning full-stack development at School of Code (SOC) -- a 16-week, full-time and fast-paced coding bootcamp,  since September 2022 and and my goal is to become a full stack developer. At SOC, I have acquired full stack development hands-on experience of using various technologies (including React, Node.js, Javascript, Typescript and PostgreSQL) and working in an Agile environment (e.g. practicing daily stand-ups, retros and scrum masters; using Git, Figma, Miro and Trello to plan and manage our projects).</p>
-<p>The intensive training at SOC has equipped me with the technical skills, teamwork experience and agile mindset required to  break into web development. I'm really grateful for the opportunity offered by SOC to start a new chapter of my life. The majority of the repos here are forked from the codes I created with another teammate in pair programming for the workshop tasks, weekly Hackathons and projects.  Any comments and advice will be highly appreciated. Thank you!</p>
+<p>I'm Jeremy, a keen learner and passionate coder who finds immense joy in unraveling the mysteries of code, whether it's front-end or back-end technologies. The seed of this interest was planted during my time as an Amazon seller, where I marveled at the efficiency and power of the various applications Amazon provides for tracking sales ranks, product prices, and managing inventory.</p>
+
+<p>To dive deeper into the coding world, I took part in a 16-week intensive coding bootcamp at the School of Code. There, I gained hands-on experience with a wide range of front-end and back-end technologies, further fueling my passion for programming.</p>
+
+<p>My GitHub is a chronicle of my coding journey. I started pushing coding exercises to my GitHub repos a few weeks before beginning the School of Code bootcamp. Those exercises were part of my self-guided learning through Udemy courses and various instructional videos. While they're not all included in my GitHub repos, the learning and growth they've enabled is reflected in my more recent projects.</p>
+
+<p>You'll find a mix of personal projects and group projects on my GitHub, completed in collaboration with my School of Code teammates. Each project showcases a different set of skills and knowledge, but they all represent my ongoing commitment to learning and growing as a developer.</p>
+
+<p>I look forward to continuing my journey, discovering and learning more about the coding world. Stay tuned to this space to see my progress!</p>
+
+
+
+
+
+
+
+
+
+
+</p>
