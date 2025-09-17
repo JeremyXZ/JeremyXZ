@@ -1,39 +1,44 @@
-# Hi there, welcome to my GitHub! :wave:
+# Hi, I'm Jeremy 👋
 
-<p>I'm Jeremy, a keen learner and passionate coder who finds immense joy in unraveling the mysteries of code, whether it's front-end or back-end technologies. The seed of this interest was planted during my time as an Amazon seller, where I marveled at the efficiency and power of the various applications Amazon provides for tracking sales ranks, product prices, and managing inventory.</p>
+I enjoy building projects that connect tech with real-world needs — from web apps to mobile apps. it's great fun experimenting with **React, React Native, Astro** and other web tech.  
+I use **AI-assisted coding tools** like ChatGPT and Anthropic to prototype, explore ideas, and bring projects to life.
 
-<p>To dive deeper into the coding world, I took part in a 16-week intensive coding bootcamp at the School of Code. There, I gained hands-on experience with a wide range of front-end and back-end technologies, further fueling my passion for programming.</p>
+---
 
-<p>My GitHub is a chronicle of my coding journey. I started pushing coding exercises to my GitHub repos a few weeks before beginning the School of Code bootcamp. Those exercises were part of my self-guided learning through Udemy courses and various instructional videos. While they're not all included in my GitHub repos, the learning and growth they've enabled is reflected in my more recent projects.</p>
+## 🚀 Recent Projects
 
-<p>You'll find a mix of personal projects and group projects on my GitHub, completed in collaboration with my School of Code teammates. Each project showcases a different set of skills and knowledge, but they all represent my ongoing commitment to learning and growing as a developer.</p>
+- [ASD Nest App](https://play.google.com/store/apps/details?id=com.jeremyxn.asdnest) – Support tool for kids with autism and parents, published on Play Store  
+- [Frequency Foundry](https://www.thefrequencyfoundry.com/) – An interactive music website with visual audio effects  
 
-<p>I look forward to continuing my journey, discovering and learning more about the coding world. Stay tuned to this space to see my progress!</p>
+---
 
+## 💻 Tech Stack
 
-## Technologies I've worked with:
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white) 
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white) 
 
-Here are some of the technologies and tools that I have worked with and learned during my coding journey:
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="max-width:100%; margin-right: 15px;"> 
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="Cypress" width="40" height="40" style="max-width:100%; margin-right: 15px;">
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40" style="max-width:100%; margin-right: 15px;">
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="Trello" width="40" height="40" style="max-width:100%; margin-right: 15px;">
+### DevOps / Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) 
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) 
 
-</div>
+---
+
+I’m always exploring new technologies and finding creative ways to apply them.
 
 
           
