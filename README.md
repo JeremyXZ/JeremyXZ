@@ -6,7 +6,7 @@ I use **AI-assisted coding tools** like ChatGPT and Anthropic to prototype, expl
 ---
 ## 🚀 Recent Projects
 
-- [ASD Nest App](https://play.google.com/store/apps/details?id=com.jeremyxn.asdnest) – Support tool for kids with autism and parents, published on Play Store  
+
 - [Frequency Foundry](https://www.thefrequencyfoundry.com/) – An interactive music website with visual audio effects  
 
 ---
